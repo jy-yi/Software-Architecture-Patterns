@@ -1,6 +1,6 @@
 # Software-Architecture-Patterns
 Understanding Common Architecture Patterns and When to Use Them
-By Mark Richards
+> By Mark Richards
 
 
 ## Table of Contents
