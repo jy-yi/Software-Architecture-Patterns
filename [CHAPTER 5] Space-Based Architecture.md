@@ -32,10 +32,7 @@
 
 <img src="./figures/figure5-3.png">
 <em>그림 5-3. 메시징 그리드 요소</em>  
-  
-    
-    
-
+<p></p>
 <img src="./figures/figure5-4.png" width="70%" height="70%">
 <em>그림 5-4. 데이터 그리드 요소</em>
 
