@@ -14,7 +14,7 @@ Introduction. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 - Considerations 
 - Pattern Analysis 
 
-2.Event-Driven Architecture. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2. Event-Driven Architecture. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - Mediator Topology
 - Broker Topology
 - Considerations
