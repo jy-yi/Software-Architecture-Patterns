@@ -14,11 +14,11 @@ Introduction. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 - Considerations 
 - Pattern Analysis 
 
-2. Event-Driven Architecture. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-- Mediator Topology 
-- Broker Topology 
-- Considerations 
-- Pattern Analysis 
+2. 이벤트 기반 아키텍쳐. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+- 중개자 토폴로지 
+- 브로커 토폴로지 
+- 고려사항 
+- 패턴 분석 
 
 3. Microkernel Architecture. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 - Pattern Description 
